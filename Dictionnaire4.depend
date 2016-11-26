@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1480183553 source:d:\greg\workspaces\codeblocks\dictionnaire4\gestexpr.c
+
+1480184770 source:d:\greg\workspaces\codeblocks\dictionnaire4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1480183343 d:\greg\workspaces\codeblocks\dictionnaire4\gestexpr.c
+
